@@ -1,0 +1,5 @@
+2017-09-14 17:54:16 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/opc/system/library/db/mysqli.php on line 7
+2017-09-14 17:54:16 - PHP Notice:  Undefined variable: db in /var/www/html/opc/install/controller/install/step_3.php on line 280
+2017-09-14 17:54:16 - PHP Notice:  Trying to get property of non-object in /var/www/html/opc/install/controller/install/step_3.php on line 280
+2017-09-14 17:54:16 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/opc/system/library/db/mysqli.php on line 7
+2017-09-14 18:24:48 - PHP Notice:  Undefined index: module_id in /var/www/html/opc/admin/controller/extension/module/messenger.php on line 40
